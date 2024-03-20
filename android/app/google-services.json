@@ -33,6 +33,35 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115429779338:android:4b338bca03e21c1f9a0a73",
+        "android_client_info": {
+          "package_name": "com.fata.plus_livreur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115429779338-5r0g8vdvmuu069hjksd88tievjteiqcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRnjJVu6uapk9DirN49cNfKLAt6yMmD7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115429779338-5r0g8vdvmuu069hjksd88tievjteiqcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"
